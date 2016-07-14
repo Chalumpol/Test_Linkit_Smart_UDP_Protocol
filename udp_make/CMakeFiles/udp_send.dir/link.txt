@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/udp_send.dir/udp_send.cpp.o  -o udp_send -rdynamic 
